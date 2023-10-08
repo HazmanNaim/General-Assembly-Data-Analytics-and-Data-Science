@@ -1,5 +1,6 @@
 # General-Assembly-Data-Analytics-and-Data-Science
-This repository is managed by Hazman and Syuk, functioning as a consolidated archive for the documentation accumulated during the General Assembly bootcamp.
+This repository is managed by Hazman,Syuk and Fahmi, functioning as a consolidated archive for the documentation accumulated during the General Assembly bootcamp.
+
 Title: 🌟 Unveiling the Magic of Data Analytics and Data Science 🌟
 
 Introduction:
